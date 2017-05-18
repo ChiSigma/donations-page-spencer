@@ -9,7 +9,7 @@
 
 var main = function(){
 
-    var reqUrl = "https://api.github.com/repos/alexmelagrano/donation-page/contents/amount.txt?ref=master";
+    var reqUrl = "https://api.github.com/repos/ChiSigma/donations-page-spencer/contents/amount.txt?ref=master";
 
     $.ajax({
         url:reqUrl,
